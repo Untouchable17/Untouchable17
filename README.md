@@ -20,7 +20,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://sun9-26.userapi.com/impg/Lvu9Nzn4XXY5N2YnGqsYtObuW-f74yFXngT_lA/Ng_gkfMHQEQ.jpg?size=750x750&quality=95&sign=e88404246e95487d0a7cf811e28d6d33&type=album" width="500" />
+<img align="right" alt="GIF" src="https://vk.com/doc502747534_606586559?hash=77e1fce50474e1c28e&dl=195982e4529d1a7f82&wnd=1&module=im&mp4=1" width="500" />
 
 **Back-end**
 
