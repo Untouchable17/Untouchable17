@@ -20,7 +20,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://sun9-26.userapi.com/impg/Lvu9Nzn4XXY5N2YnGqsYtObuW-f74yFXngT_lA/Ng_gkfMHQEQ.jpg?size=750x750&quality=95&sign=e88404246e95487d0a7cf811e28d6d33&type=album" width="500" height="320" />
 
 **Back-end**
 
