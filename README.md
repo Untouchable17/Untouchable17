@@ -8,12 +8,11 @@
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-
 </br>
 
 ## Technology Stack
 
-<img align="right" alt="JPG" src="https://sun9-54.userapi.com/impg/fOfAYj6V_SrAQK_EllRjsn1nkgcBHJc1HKsXFw/GCtmyc0BJD4.jpg?size=1920x1080&quality=95&sign=217c6e5042a966f3fc325dd9a39d195c&type=album" width="400" height="400" />
+<img align="right" alt="JPG" src="https://giphy.com/gifs/watchdogs-watchdogslegion-watchdogsuk-U7gKsSdX2n6csHSiMz" width="480" height="480" />
 
 **Back-end**
 
