@@ -51,7 +51,7 @@
 
 **Learning**
 
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+![C++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
 ## 𝗦𝘁𝗮𝘁𝘀
