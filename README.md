@@ -13,7 +13,7 @@
 
 ## Technology Stack
 
-<img align="right" alt="JPG" src="https://sun9-54.userapi.com/impg/fOfAYj6V_SrAQK_EllRjsn1nkgcBHJc1HKsXFw/GCtmyc0BJD4.jpg?size=1920x1080&quality=95&sign=217c6e5042a966f3fc325dd9a39d195c&type=album" width="400" height="600" />
+<img align="right" alt="JPG" src="https://sun9-54.userapi.com/impg/fOfAYj6V_SrAQK_EllRjsn1nkgcBHJc1HKsXFw/GCtmyc0BJD4.jpg?size=1920x1080&quality=95&sign=217c6e5042a966f3fc325dd9a39d195c&type=album" width="400" height="400" />
 
 **Back-end**
 
