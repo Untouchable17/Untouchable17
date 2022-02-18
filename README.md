@@ -30,7 +30,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
