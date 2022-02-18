@@ -13,7 +13,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://psv4.userapi.com/c532036/u178887847/docs/d46/bea2848bdfa3/ezgif-7-003838fa15a1.gif?extra=nWz3x5gLWEUWKaW5Uda06ZWIwKeGPAmxuAX1Bx6LNIhhuWZ5hlsdAW4KTUHzU2Mo0Sx_3qnM7z3YoH7basW6aeKaeBGgpz32S1ZOeETZIa654UCJxsMSRkgtbVZ41xXxyHy1JwKmedia1CQTIr88tarn" width="500" />
+<img align="right" alt="JPG" src="https://sun9-54.userapi.com/impg/fOfAYj6V_SrAQK_EllRjsn1nkgcBHJc1HKsXFw/GCtmyc0BJD4.jpg?size=1920x1080&quality=95&sign=217c6e5042a966f3fc325dd9a39d195c&type=album" width="500" />
 
 **Back-end**
 
