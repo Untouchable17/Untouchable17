@@ -17,7 +17,7 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
