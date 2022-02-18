@@ -58,7 +58,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Untouchable17 github stats](https://github-readme-stats.vercel.app/api?username=Untouchable17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
+![Untouchable17 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Untouchable17&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **DJWOMS/DJWOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
