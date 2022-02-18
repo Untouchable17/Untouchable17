@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Full-Stack developer
+## Мы не будем менять этот мир. Мы перепишем код
 
 <a href="https://www.youtube.com/c/DjangoSchool">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
