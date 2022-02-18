@@ -8,11 +8,12 @@
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+
 </br>
 
 ## Technology Stack
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/U7gKsSdX2n6csHSiMz" width="480" height="480" />
+<img align="right" alt="JPG" src="https://media4.giphy.com/media/U7gKsSdX2n6csHSiMz/200w.webp?cid=dda24d509601326d3ef588c206885b1608ce40b75555b32e&rid=200w.webp&ct=g" width="500" heigth="400" />
 
 **Back-end**
 
