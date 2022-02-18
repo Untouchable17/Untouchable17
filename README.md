@@ -12,7 +12,7 @@
 
 ## Technology Stack
 
-<img align="right" alt="JPG" src="https://giphy.com/gifs/watchdogs-watchdogslegion-watchdogsuk-U7gKsSdX2n6csHSiMz" width="480" height="480" />
+<img align="right" alt="GIF" src="https://giphy.com/embed/U7gKsSdX2n6csHSiMz" width="480" height="480" />
 
 **Back-end**
 
