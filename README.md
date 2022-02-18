@@ -57,7 +57,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Untouchable17 github stats](https://github-readme-stats.vercel.app/api?username=Untouchable17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
