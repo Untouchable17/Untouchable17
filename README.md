@@ -41,7 +41,7 @@
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-white?style=flat-square&logo=Redis&logoColor=red)
 
 
 **Tools**
