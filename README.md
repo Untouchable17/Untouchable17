@@ -12,8 +12,7 @@
 </br>
 
 ## Technology Stack
-
-<img align="right" alt="JPG" src="https://media4.giphy.com/media/U7gKsSdX2n6csHSiMz/200w.webp?cid=dda24d509601326d3ef588c206885b1608ce40b75555b32e&rid=200w.webp&ct=g" style="width: 400px; height:400px;" />
+<img align="right" alt="JPG" src="https://steamuserimages-a.akamaihd.net/ugc/101728646665848536/0A2FBF0EBE7E90DB98C39F83924BFDD339691BC5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 400px; height:400px;" />
 
 **Backend**
 
