@@ -12,7 +12,7 @@
 </br>
 
 ## Technology Stack
-<img align="right" alt="JPG" src="https://steamuserimages-a.akamaihd.net/ugc/101728646665848536/0A2FBF0EBE7E90DB98C39F83924BFDD339691BC5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://media.giphy.com/media/atZbQXm0uiL8TOOsBZ/giphy.gif" style="width: 400px; height:400px;" />
+<img align="right" alt="JPG" src="https://i.giphy.com/media/atZbQXm0uiL8TOOsBZ/giphy.webp" style="width: 400px; height:400px;" />
 
 **Backend**
 
