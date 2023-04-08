@@ -9,7 +9,7 @@
 </br>
 
 ## Technology Stack
-<img align="right" alt="JPG" src="[https://media.giphy.com/media/bcrOR2stk6tKIxqPOZ/giphy.gif](https://i.ibb.co/mCRnz9r/SOSI-1.png)"/>
+<img src="https://i.ibb.co/mCRnz9r/SOSI-1.png"/>
 
 **Backend**
 
